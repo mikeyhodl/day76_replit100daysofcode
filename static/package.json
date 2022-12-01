@@ -1,0 +1,34 @@
+{
+  "name": "lancolatech",
+  "version": "2.0.0",
+  "description": "We provide a wide range of high quality standard and customized products and services fostering growth and development in Information communication Technology. We also provide other business agency services incidental to these products and services.",
+  "main": "index.html",
+  "scripts": {
+    "test": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikeyhodl/lancola.git"
+  },
+  "keywords": [
+    "Bulk",
+    "SMS",
+    "Dental",
+    "management",
+    "system",
+    "Digital",
+    "marketing",
+    "Web",
+    "design"
+  ],
+  "author": "mike owino (https://mikeowino.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikeyhodl/lancola/issues"
+  },
+  "homepage": "https://github.com/mikeyhodl/lancola#readme",
+  "dependencies": {
+    "pjax": "^0.2.8",
+    "serve": "^14.0.1"
+  }
+}
