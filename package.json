@@ -29,6 +29,6 @@
   "homepage": "https://github.com/mikeyhodl/lancola#readme",
   "dependencies": {
     "pjax": "^0.2.8",
-    "serve": "^14.0.1"
+    "serve": "^14.1.2"
   }
 }
